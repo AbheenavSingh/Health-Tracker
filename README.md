@@ -3,7 +3,7 @@
 
 A mobile application with the goal of helping people track their fitness progress, encourage a healthier lifestyle using gamification, and connect fitness enthusiasts from around the world.
 
-![App screenshots](./screenshots/group.png)
+
 
 
 # Core Features 
@@ -20,14 +20,7 @@ A mobile application with the goal of helping people track their fitness progres
 - Heart rate sensor
 - Barcode scanner
 
-# Built with 
- - <img align="center" src="https://img.icons8.com/color/48/000000/flutter.png" height="30"/> Flutter 
- - <img align="center" src="https://img.icons8.com/color/48/000000/firebase.png" height="30"/> Firebase
 
-# screenshots 
-![App screenshots](./screenshots/ss1.png)
-![App screenshots](./screenshots/dark.png)
-![App screenshots](./screenshots/light.png)
 
 ## Getting Started
 Step-1 Download or clone this repository -
